@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5C9EAD&height=200&section=header&text=Welcome+to+My+Profile!&fontColor=FFFFFF&fontSize=40&fontAlignY=40" />
-<h1 align="center">🌿 Welcome, I'm Kim Ye Ga!</h1>
 </p>
+<h1 align="center">🌿 Welcome, I'm Kim Ye Ga!</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C9EAD&center=true&vCenter=true&width=500&lines=Big+Data+Student;AI+Art+Enthusiast;Full-Stack+Developer;Lifelong+Learner">
+
 ---
 
 ## 🎓 About Me  
