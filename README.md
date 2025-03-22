@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5C9EAD&height=200&section=header&text=Welcome+I'm+Kim+Ye+Ga!&fontColor=FFFFFF&fontSize=40&fontAlignY=40" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C9EAD&center=true&vCenter=true&width=500&lines=Big+Data+Student;AI+Art+Enthusiast;Full-Stack+Developer;Lifelong+Learner">
 </p> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C9EAD&center=true&vCenter=true&width=500&lines=Big+Data+Student;AI+Art+Enthusiast;Full-Stack+Developer;Lifelong+Learner">
+
 
 ---
 
