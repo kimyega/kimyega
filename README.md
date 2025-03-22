@@ -46,6 +46,7 @@
 <p align="center">
   <a href="mailto:yega99@gmail.com">
     <img src="https://img.shields.io/badge/Email-87A8A4?style=for-the-badge&logo=gmail&logoColor=white">
+    yega99@gmail.com
   </a>
 </p>
 
